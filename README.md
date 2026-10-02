@@ -69,10 +69,6 @@ It performs:
 
 This gives the repository visible evidence of basic CI and containerisation.
 
-## Portfolio/CV wording
-
-> Built and deployed a Streamlit dashboard for timber-forecast uncertainty propagation using synthetic forest inventory inputs, Monte Carlo simulation and GitHub Actions CI checks.
-
 ## Notes
 
 All values, regions and tree groups are synthetic and designed for demonstration only.
